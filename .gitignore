@@ -62,7 +62,6 @@ Thumbs.db.meta
 # VS Code
 *.vscode
 
-Bail
+build
 buildWeb
-winbuild.zip
-macBuild.zip
+builds
