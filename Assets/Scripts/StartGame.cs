@@ -11,7 +11,7 @@ public class StartGame : MonoBehaviour
     void Start()
     {
         button.onClick.AddListener(() => {
-            SceneManager.LoadScene("Game");
+            SceneManager.LoadScene("GameSelect");
         });
     }
 }
